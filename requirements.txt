@@ -1,0 +1,4 @@
+python-telegram-bot==20.7
+llama-cpp-python==0.2.90
+requests==2.31.0
+beautifulsoup4==4.12.3
